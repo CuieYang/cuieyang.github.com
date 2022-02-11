@@ -23,7 +23,7 @@
 
 # Publications
 ### Journal Papers
-14.	Yang, Cuie., Cheung, Yiu-ming, Ding, Jinliang., et al.  Contrastive Learning Assisted-Alignment for Partial Domain Adaptation. IEEE Transactions on Neural Networks and Learning Systems, 2022, accepted, DOI: 10.1109/TNNLS.2022.3145034. 
+1.	Yang, Cuie., Cheung, Yiu-ming, Ding, Jinliang., et al.  Contrastive Learning Assisted-Alignment for Partial Domain Adaptation. IEEE Transactions on Neural Networks and Learning Systems, 2022, accepted, DOI: 10.1109/TNNLS.2022.3145034. 
 13.	Xue, Xiaoming., Yang, Cuie., Hu, Yao, et al. Evolutionary Sequential Transfer Optimization for Objective-Heterogeneous Problems. IEEE Transactions on Evolutionary Computation, 2021, accepted, DOI: 10.1109/TEVC.2021.3133874. 
 12.	Yang, Cuie., Cheung, Yiu-ming, Ding, Jinliang., and TAN, Kay Chen.  Concept Drift-tolerant Transfer Learning in Dynamic Environments. IEEE Transactions on Neural Networks and Learning Systems, 2021, accepted, DOI: 10.1109/TNNLS. 2021.3054665. 
 11.	Yang, Cuie., Ding, Jinliang., Jin, Yaochu., and Chai, Tianyou. Off-line data-driven multi-objective optimization: knowledge transfer between surrogates and generation of final solutions. IEEE Transactions on Evolutionary Computation. 2020, 24(3), pp. 409-423.
