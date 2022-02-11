@@ -4,8 +4,8 @@
 #### • Cotton Club (CO350), PO Box 600, Kelburn, Wellington, New Zealand.
 
 # Work Experience
-• 2021.07 - present, Post-doctoral Research Fellow, Victoria University of Wellington.
-• 2020.02 - 2021.07, Post-doctoral Research Fellow, Hong Kong Baptist University.
+#### • 2021.07 - present, Post-doctoral Research Fellow, Victoria University of Wellington.
+#### • 2020.02 - 2021.07, Post-doctoral Research Fellow, Hong Kong Baptist University.
 
 # Educations
 #### 09/2016 - 10/2019, Doctor Degree, Doctor of Engineering, Northeastern University, China
@@ -14,11 +14,11 @@
 
 # Research Interests
 
-• Transfer Learning: unsupervised domain adaptation, partial domain adaptation, concept drift learning
+#### • Transfer Learning: unsupervised domain adaptation, partial domain adaptation, concept drift learning
 
-•	Evolutionary Optimization: dynamic evolutionary optimization; evolutionary transfer optimization; data driven surrogate-assisted evolutionary optimization
+#### • Evolutionary Optimization: dynamic evolutionary optimization; evolutionary transfer optimization; data driven surrogate-assisted evolutionary optimization
 
-•	Real world applications: industrial learning and optimization
+#### • Real world applications: industrial learning and optimization
 
 
 # Publications
