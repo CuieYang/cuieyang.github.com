@@ -40,7 +40,7 @@
 
 ### Conference Papers
 
-2.	Yang, Cuie., Ding, Jinliang., Tan, Kaychen., & Jin, Yaochu. (2017, December). Two-stage assortative mating for multi-objective multifactorial evolutionary optimization. In Decision and Control (CDC), 2017 IEEE 56th Annual Conference on (pp. 76-81). IEEE.
+1.	Yang, Cuie., Ding, Jinliang., Tan, Kaychen., & Jin, Yaochu. (2017, December). Two-stage assortative mating for multi-objective multifactorial evolutionary optimization. In Decision and Control (CDC), 2017 IEEE 56th Annual Conference on (pp. 76-81). IEEE.
 1.	Yang, Cuie., Ding, Jinliang., Chai, Tianyou., & Jin, Yaochu. (2016, July). Reference point based prediction for evolutionary dynamic multiobjective optimization. In 2016 IEEE congress on evolutionary computation (CEC) (pp. 3769-3776). IEEE.
 
 # Awards
