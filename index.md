@@ -15,7 +15,9 @@
 # Research Interests
 
 • Transfer Learning: unsupervised domain adaptation, partial domain adaptation, concept drift learning
-•	Evolutionary Optimization: dynamic evolutionary optimization; evolutionary transfer    optimization; data driven surrogate-assisted evolutionary optimization
+
+•	Evolutionary Optimization: dynamic evolutionary optimization; evolutionary transfer optimization; data driven surrogate-assisted evolutionary optimization
+
 •	Real world applications: industrial learning and optimization
 
 
